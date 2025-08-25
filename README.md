@@ -1,3 +1,3 @@
 # New Project
-This project was created from local.git
-created by Abhi
+This project was created from local git
+created by Abhi.
